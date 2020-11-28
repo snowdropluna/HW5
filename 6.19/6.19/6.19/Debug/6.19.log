@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\college\program\homework\hw5\6.19\source\main.cpp(10): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\college\program\homework\hw5\6.19\source\main.cpp(28): warning C4477: 'printf' : 格式字串 '%9d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '__int64'
+  d:\college\program\homework\hw5\6.19\source\main.cpp(28): note: 請考慮在格式字串中使用 '%lld'
+  d:\college\program\homework\hw5\6.19\source\main.cpp(28): note: 請考慮在格式字串中使用 '%I64d'
+d:\college\program\homework\hw5\6.19\source\main.cpp(33): warning C4477: 'printf' : 格式字串 '%9d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 '__int64'
+  d:\college\program\homework\hw5\6.19\source\main.cpp(33): note: 請考慮在格式字串中使用 '%lld'
+  d:\college\program\homework\hw5\6.19\source\main.cpp(33): note: 請考慮在格式字串中使用 '%I64d'
+  6.19.vcxproj -> D:\college\program\homework\HW5\6.19\6.19\Debug\6.19.exe
